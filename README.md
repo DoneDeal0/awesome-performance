@@ -4,6 +4,7 @@ A curated list of awesome performance stories.
 
 | Date | Summary w/ link |
 | --- | --- |
+| 2026/01/22 | [Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust) |
 | 2025/12/16 | [Parallelizing ClickHouse aggregation merge for fixed hash map](https://clickhouse.com/blog/parallelizing-fixed-hashmap-aggregation-merge-in-clickhouse?utm_content=bufferea55c&utm_medium=social&utm_source=twitter&utm_campaign=buffer) |
 | 2025/10/23 | [3x-9x Faster Apache Parquet Footer Metadata Using a Custom Thrift Parser in Rust](https://arrow.apache.org/blog/2025/10/23/rust-parquet-metadata/) |
 | 2025/08/04 | [How we made JSON.stringify more than twice as fast](https://v8.dev/blog/json-stringify) |
